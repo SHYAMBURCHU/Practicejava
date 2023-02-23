@@ -3,7 +3,7 @@ public class Addition {
     {
         int a=444;
         int b=666;
-        int c=a+b;
+        int c=333;
         System.out.println(c);
     }
 }
