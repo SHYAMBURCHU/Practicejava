@@ -4,7 +4,7 @@ public class Addition {
         int a=444;
         int b=666;
         int c=333;
-        int c=888;
+        int d=888;
         System.out.println(c);
     }
 }
